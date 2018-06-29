@@ -1,6 +1,6 @@
 ## NodeJS calculator and Mocha testing
 
-This mini project is an introduction to development through testing in JavaScript.
+This mini project is an introduction to development through testing in JavaScript using the Mocha testing framework.
 
 ### Installation
 
@@ -8,7 +8,7 @@ This mini project is an introduction to development through testing in JavaScrip
 git clone https://github.com/yuriian/node-calc.git
 cd node-calc
 npm i
-node calc.js
+node calc
 ```
 
 Link to the original article [here](https://tproger.ru/translations/unit-testing-in-javascript/).

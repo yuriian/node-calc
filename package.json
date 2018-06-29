@@ -1,0 +1,22 @@
+{
+  "name": "calc.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriian/JavaScript-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriian/JavaScript-testing/issues"
+  },
+  "homepage": "https://github.com/yuriian/JavaScript-testing#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
